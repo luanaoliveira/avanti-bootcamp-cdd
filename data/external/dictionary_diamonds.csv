@@ -1,0 +1,11 @@
+variavel,descricao,tipo,subtipo
+carat,Peso do diamante,quantitativa,continua
+cut,QuAlidade do corte,qualitativa,nominal
+color,Cor do diamante,qualitativa,nominal
+clarity,Clareza do diamante,qualitativa,nominal
+depth,Porcentagem de profundidade,quantitativa,continua
+table,Largura do topo do losango em relação ao ponto mais largo,quantitativa,continua
+price,Preço em dólares americanos,quantitativa,discreta
+x,Comprimento em mm,quantitativa,continua
+y,Largura em mm,quantitativa,continua
+z,Profundidade em mm,quantitativa,continua
