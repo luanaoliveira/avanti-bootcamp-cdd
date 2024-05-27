@@ -1,11 +1,11 @@
 variavel,descricao,tipo,subtipo
 carat,Peso do diamante,quantitativa,continua
-cut,QuAlidade do corte,qualitativa,ordinal
+cut,Qualidade do corte,qualitativa,ordinal
 color,Cor do diamante,qualitativa,ordinal
-clarity,Clareza do diamante,qualitativa,ordinal
-depth,Porcentagem de profundidade,quantitativa,continua
+clarity,Pureza do diamante,qualitativa,ordinal
+depth,Porcentagem de profundidade total,quantitativa,continua
 table,Largura do topo do losango em relação ao ponto mais largo,quantitativa,continua
-price,Preço em dólares americanos,quantitativa,contínua
+price,Preço em dólares americanos,quantitativa,discreta
 x,Comprimento em mm,quantitativa,continua
 y,Largura em mm,quantitativa,continua
 z,Profundidade em mm,quantitativa,continua
